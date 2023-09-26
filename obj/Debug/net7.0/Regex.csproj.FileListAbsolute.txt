@@ -1,0 +1,14 @@
+D:\Projects\smt5-kuliah\TBO\Tugas2\Regex\bin\Debug\net7.0\Regex.exe
+D:\Projects\smt5-kuliah\TBO\Tugas2\Regex\bin\Debug\net7.0\Regex.deps.json
+D:\Projects\smt5-kuliah\TBO\Tugas2\Regex\bin\Debug\net7.0\Regex.runtimeconfig.json
+D:\Projects\smt5-kuliah\TBO\Tugas2\Regex\bin\Debug\net7.0\Regex.dll
+D:\Projects\smt5-kuliah\TBO\Tugas2\Regex\bin\Debug\net7.0\Regex.pdb
+D:\Projects\smt5-kuliah\TBO\Tugas2\Regex\obj\Debug\net7.0\Regex.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\smt5-kuliah\TBO\Tugas2\Regex\obj\Debug\net7.0\Regex.AssemblyInfoInputs.cache
+D:\Projects\smt5-kuliah\TBO\Tugas2\Regex\obj\Debug\net7.0\Regex.AssemblyInfo.cs
+D:\Projects\smt5-kuliah\TBO\Tugas2\Regex\obj\Debug\net7.0\Regex.csproj.CoreCompileInputs.cache
+D:\Projects\smt5-kuliah\TBO\Tugas2\Regex\obj\Debug\net7.0\Regex.dll
+D:\Projects\smt5-kuliah\TBO\Tugas2\Regex\obj\Debug\net7.0\refint\Regex.dll
+D:\Projects\smt5-kuliah\TBO\Tugas2\Regex\obj\Debug\net7.0\Regex.pdb
+D:\Projects\smt5-kuliah\TBO\Tugas2\Regex\obj\Debug\net7.0\Regex.genruntimeconfig.cache
+D:\Projects\smt5-kuliah\TBO\Tugas2\Regex\obj\Debug\net7.0\ref\Regex.dll
